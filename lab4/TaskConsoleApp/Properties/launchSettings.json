@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TaskConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

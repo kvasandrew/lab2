@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVtB+b8cnlTLBwO+hzVlz7XxpUY6Tise9rWjql2FJW7xEzzAZ5svypkw00/ls46b0IZqphw8CI9W6syEJ5QMUw==",
+  "success": true,
+  "projectFilePath": "D:\\TA-13\\lab4\\Task.Core\\Task.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kvasa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kvasa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

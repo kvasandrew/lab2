@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MENtt6esism6uso6zm72npr9IMPeVyiyW3TSLtlN0QX1JI6XXJvqOZ/+z8+8UyccU6PfxSXetN4vpxORV/V7TA==",
+  "success": true,
+  "projectFilePath": "D:\\TA-13\\lab4\\TaskConsoleApp\\TaskConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kvasa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

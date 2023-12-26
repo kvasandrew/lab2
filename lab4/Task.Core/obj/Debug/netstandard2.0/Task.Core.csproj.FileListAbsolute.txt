@@ -1,0 +1,10 @@
+D:\TA-13\lab4\Task.Core\bin\Debug\netstandard2.0\Task.Core.deps.json
+D:\TA-13\lab4\Task.Core\bin\Debug\netstandard2.0\Task.Core.dll
+D:\TA-13\lab4\Task.Core\bin\Debug\netstandard2.0\Task.Core.pdb
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.csproj.AssemblyReference.cache
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.AssemblyInfoInputs.cache
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.AssemblyInfo.cs
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.csproj.CoreCompileInputs.cache
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.dll
+D:\TA-13\lab4\Task.Core\obj\Debug\netstandard2.0\Task.Core.pdb
